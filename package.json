@@ -1,0 +1,12 @@
+{
+    "name": "ScraggleAPI",
+    "version": "0.0.0",
+    "main": "index.js",
+    "license": {
+        "type": "MIT"
+    },
+    "repository": {
+        "type": "git",
+        
+    }
+}
